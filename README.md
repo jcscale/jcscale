@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [jcscale.pythonanywhere.com](jcscale.pythonanywhere.com)
+- 👨‍💻 All of my projects are available at [jcscale.pythonanywhere.com](http://jcscale.pythonanywhere.com/)
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
