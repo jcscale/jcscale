@@ -3,11 +3,11 @@
 [![jcscale's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcscale)](https://github.com/jcscale/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcscale&layout=compact)](https://github.com/jcscale/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[![jcscale's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcscale)](https://github.com/jcscale/github-readme-stats)" />
+<a href="[![jcscale's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcscale)](https://github.com/jcscale/github-readme-stats)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcscale&layout=compact)](https://github.com/jcscale/github-readme-stats)" />
+<a href="[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcscale&layout=compact)](https://github.com/jcscale/github-readme-stats)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 <!--
