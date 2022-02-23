@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcscale&show_icons=true&locale=en&layout=compact" alt="jcscale" /></p>
 
-<p>&nbsp;<img align="center" margin-top="5" src="https://github-readme-stats.vercel.app/api?username=jcscale&show_icons=true&locale=en" alt="jcscale" /></p>
+<p>&nbsp;<img align="center" margin-top="5px" src="https://github-readme-stats.vercel.app/api?username=jcscale&show_icons=true&locale=en" alt="jcscale" /></p>
