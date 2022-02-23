@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![jcscale's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcscale)](https://github.com/jcscale/github-readme-stats)
+
 <!--
 **jcscale/jcscale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
