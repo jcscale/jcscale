@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![jcscale's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcscale)](https://github.com/jcscale/github-readme-stats)
+[![jcscale's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcscale&layout=compact)](https://github.com/jcscale/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcscale&layout=compact)](https://github.com/jcscale/github-readme-stats)
 
 <!--
