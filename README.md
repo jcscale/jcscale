@@ -4,10 +4,10 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcscale&layout=compact)](https://github.com/jcscale/github-readme-stats)
 
 <a href="[![jcscale's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcscale)](https://github.com/jcscale/github-readme-stats)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="(https://github.com/jcscale/github-readme-stats)" />
 </a>
 <a href="[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcscale&layout=compact)](https://github.com/jcscale/github-readme-stats)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="(https://github.com/jcscale/github-readme-stats)" />
 </a>
 
 <!--
