@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JC Scale</h1>
 <h3 align="center">A passionate python developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [jcscale.pythonanywhere.com](http://jcscale.pythonanywhere.com/)
 
@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcscale&show_icons=true&locale=en&layout=compact" alt="jcscale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcscale&show_icons=true&locale=en" alt="jcscale" /></p>
+<p>&nbsp;<img align="center" margin-top="5" src="https://github-readme-stats.vercel.app/api?username=jcscale&show_icons=true&locale=en" alt="jcscale" /></p>
