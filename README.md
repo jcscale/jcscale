@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm JC Scale</h1>
-<h3 align="center">Currently learning Web Development</h3>
+<h3 align="center">A passionate web developer</h3>
 
-<!-- - 🌱 I’m currently learning **Web Development** -->
+
+
+  - 🌱 I’m currently learning **Web Development**
+
+
 
 <div>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcscale&show_icons=true&theme=radical" />
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcscale&layout=compact&theme=radical" />
-
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jcscale&theme=radical" alt="jcscale" />
+  <img align="center" src="https://user-images.githubusercontent.com/40859420/155565894-1e7a6902-120b-477e-ad8c-8e1a3fbe5d62.gif">
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -27,3 +31,5 @@
   <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+
